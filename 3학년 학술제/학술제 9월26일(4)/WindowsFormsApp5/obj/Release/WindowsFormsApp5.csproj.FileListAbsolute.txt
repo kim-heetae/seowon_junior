@@ -1,0 +1,12 @@
+C:\Users\MIS26\Desktop\학술제 완성본3\학술제 9월26일(4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.포스.resources
+C:\Users\MIS26\Desktop\학술제 완성본3\학술제 9월26일(4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.로그인.resources
+C:\Users\MIS26\Desktop\학술제 완성본3\학술제 9월26일(4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.계산영수증.resources
+C:\Users\MIS26\Desktop\학술제 완성본3\학술제 9월26일(4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.매출영수증.resources
+C:\Users\MIS26\Desktop\학술제 완성본3\학술제 9월26일(4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\MIS26\Desktop\학술제 완성본3\학술제 9월26일(4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\MIS26\Desktop\학술제 완성본3\학술제 9월26일(4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\MIS26\Desktop\WindowsFormsApp5.exe.config
+C:\Users\MIS26\Desktop\학술제 완성본3\학술제 9월26일(4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.exe
+C:\Users\MIS26\Desktop\학술제 완성본3\학술제 9월26일(4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.pdb
+C:\Users\MIS26\Desktop\WindowsFormsApp5.exe
+C:\Users\MIS26\Desktop\WindowsFormsApp5.pdb
